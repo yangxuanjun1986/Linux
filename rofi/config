@@ -1,0 +1,11 @@
+#rofi.theme: /usr/share/rofi/themes/android_notification.rasi
+#rofi.theme: /usr/share/rofi/themes/arthur.rasi
+#rofi.theme: /usr/share/rofi/themes/Adapta-Nokto.rasi
+#rofi.theme: /usr/share/rofi/themes/input-emph-topbar.rasi
+#rofi.theme: /usr/share/rofi/themes/tnekcir-no-sidebar.rasi
+#rofi.theme: /usr/share/rofi/themes/input-emph-nobar.rasi
+rofi.theme: /usr/share/rofi/themes/tnekcir-left-sidebar.rasi
+#rofi.theme: /usr/share/rofi/themes/
+#rofi.theme: /usr/share/rofi/themes/
+#rofi.theme: /usr/share/rofi/themes/
+

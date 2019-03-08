@@ -1,0 +1,15 @@
+Mar 04 11:59 : update: added /2.mp3
+Mar 04 11:59 : update: added /1.mp3
+Mar 04 11:59 : update: added /0.mp3
+Mar 04 12:00 : client: [0] opened from [::1]:44424
+Mar 04 12:02 : player: played "1.mp3"
+Mar 04 12:04 : player: played "1.mp3"
+Mar 04 12:04 : player: played "2.mp3"
+Mar 04 12:04 : player: played "1.mp3"
+Mar 04 12:09 : player: played "0.mp3"
+Mar 04 12:09 : player: played "1.mp3"
+Mar 04 12:12 : player: played "2.mp3"
+Mar 04 12:13 : player: played "1.mp3"
+Mar 04 12:17 : client: [0] closed
+Mar 04 12:17 : player: played "0.mp3"
+mpd: ../src/player/Thread.cxx:785: void PlayerControl::PlayChunk(DetachedSong&, MusicChunkPtr, const AudioFormat&): Assertion `chunk->CheckFormat(format)' failed.

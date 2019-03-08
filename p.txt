@@ -1,0 +1,1271 @@
+    1  ls -la
+    2  exit
+    3  ls
+    4  nano .zshrc
+    5  git clone https://github.com/powerline/fonts.git
+    6  git clone https://github.com/powerline/powerline.git
+    7  ls
+    8  cd powerline
+    9  ls
+   10  ./setup.py
+   11  ls
+   12  cd ..
+   13  chmod -R 777 powerline
+   14  ls
+   15  cd powerline
+   16  ls
+   17  ./setup.py
+   18  pacman -S setuptools
+   19  pacman -Syu awesome-terminal-fonts
+   20  cd
+   21  git clone https://github.com/gabrielelana/awesome-terminal-fonts.git
+   22  pacman -S droid-fonts
+   23  pacman -S droid-font
+   24  exit
+   25  nano .zshrc
+   26  cd Downloads
+   27  ls
+   28  nano .zshrc
+   29  exit
+   30  ls
+   31  cd Downloads
+   32  ls
+   33  cp .i3status.conf ~/
+   34  cd
+   35  nano .i3status.conf
+   36  cd Downloads
+   37  cd .config
+   38  ls
+   39  ls -la
+   40  cd
+   41  nano .xinitrc
+   42  exit
+   43  ls
+   44  cd powerlevel9k
+   45  ls
+   46  cd ..
+   47  ls
+   48  bash
+   49  ls
+   50  nano .zshrc
+   51  ls
+   52  cd .oh-my-zsh
+   53  ls
+   54  cd themes
+   55  ls
+   56  cd ..
+   57  cd themes/ls
+   58  cd
+   59  ls
+   60  cd powerlevel9k
+   61  ls
+   62  cp powerlevel9k.zsh-theme ~/.oh-my-zsh/themes
+   63  nano README.md
+   64  exit
+   65  cd powerlevel9k
+   66  ls
+   67  sudo pacman -S zsh-theme-powerlevel9k
+   68  exit
+   69  echo 'source /usr/share/zsh-theme-powerlevel9k/powerlevel9k.zsh-theme' >> ~/.zshrc
+   70  ls
+   71  zsh
+   72  exit
+   73  ls
+   74  nano .zshrc
+   75  ls
+   76  cd Downloads
+   77  ls
+   78  nano .zshrc
+   79  remove powerlevel9k
+   80  sudo pacman -Rcn zsh-theme-powerlevel9k
+   81  exit
+   82  cd powerlevel9k
+   83  ls
+   84  bash
+   85  exit
+   86  ls
+   87  ./prompt_powerlevel9k_setup
+   88  cd
+   89  nano .zshrc
+   90  pacman -Ss font
+   91  pacman -S dobe-source-sans-pro-fonts
+   92  pacman -S adobe-source-sans-pro-fonts
+   93  pacman -S adobe-source-serif-pro-fonts
+   94  pacman -S noto-fonts-extra
+   95  cd .config
+   96  ;ls
+   97  ls
+   98  cd ..
+   99  cd .oh-my-zsh
+  100  ls
+  101  cd ..
+  102  ls
+  103  cd fonts
+  104  ls
+  105  cd Hack
+  106  ls
+  107  cd ..
+  108  cp -rf * /usr/share/fonts
+  109  cd /usr/share/fonts
+  110  ls
+  111  rm -rf install.ps1
+  112  rm -rf install.sh
+  113  rm -rf uninstall.sh
+  114  rm -rf README.rst
+  115  ls
+  116  cd
+  117  ls
+  118  rm -rf fonts
+  119  ls
+  120  fc-cache -fv
+  121  cd awesome-terminal-fonts
+  122  ls
+  123  ./install.sh
+  124  cd ..
+  125  ls
+  126  rm -rf awesome-terminal-fonts
+  127  ls
+  128  fc-cache -vf ~/.local/share/fonts
+  129  pacman -S powerline-font
+  130  pacman -S powerline-fonts
+  131  su yang
+  132  pacman -S rxvt-unicode
+  133  pacman -S rxvt-dev
+  134  su yang
+  135  pacman -S rxvt-unicode-256xresources
+  136  su yang
+  137  exit
+  138  ls
+  139  mkdir music
+  140  ls
+  141  exit
+  142  moc
+  143  reboot
+  144  wifi-menu
+  145  startx
+  146  ls
+  147  cp -rf powerlevel9k .oh-my-zsh/themes
+  148  moc
+  149  nano .zshrc
+  150  bash
+  151  alsamixer
+  152  terminator &
+  153  exit
+  154  ls
+  155  rm -rf powerlevel9k
+  156  ls
+  157  cd powerline
+  158  ls
+  159  ./setup.py
+  160  cd Downloads
+  161  ls
+  162  tar xf arch1_tar.gz
+  163  ls
+  164  cd i3
+  165  ls
+  166  ls -la
+  167  cd ..
+  168  ls -la
+  169  cd i3
+  170  ls
+  171  cd ..
+  172  tar xf arch1_tar.gz
+  173  ls
+  174  ls -la
+  175  rm -rf *
+  176  ls
+  177  cd ..
+  178  ls
+  179  ls -la
+  180  cd Downloads
+  181  LS
+  182  ls
+  183  ls -la
+  184  nano .xprofile
+  185  nano .xinitrc
+  186  rm -rf .*
+  187  ls
+  188  ll
+  189  ls -la
+  190  cd ..
+  191  ls
+  192  cd .config/i3
+  193  ls
+  194  nano config
+  195  pacman -S thunar
+  196  ranger
+  197  st
+  198  ls
+  199  ifconfig
+  200  ls
+  201  exit
+  202  clear
+  203  exit
+  204  ls
+  205  nano config
+  206  exit
+  207  ls
+  208  nano .config/i3/config
+  209  nano .Xresources
+  210  exit
+  211  reboot
+  212  wifi-menu
+  213  startx
+  214  ls
+  215  clear
+  216  ifconfig
+  217  nano .Xresources
+  218  pacman -Ss unicode
+  219  pacman -S unicode-emoji
+  220  pacman -S ttf-symbola 
+  221  pacman -Scc
+  222  poweroff
+  223  wifi-menu
+  224  startx
+  225  firefox
+  226  ls -la
+  227  pacman -S i3bar
+  228  pacman -S conky
+  229  pamcman -S ttf-font-awesome
+  230  pacman -S ttf-font-awesome
+  231  pacman -S ttf-font-icons
+  232  su yang
+  233  nano .config/i3/config
+  234  gedit .config/i3/config
+  235  ls
+  236  chmod a+x Motrix-1.1.3-x86_64.AppImage
+  237  ls
+  238  ./Motrix-1.1.3-x86_64.AppImage
+  239  exit
+  240  gedit .config/i3/config
+  241  gedit .config/i3/config &
+  242  pacman -S xorg-xprop
+  243  pacman -S i3-style
+  244  su yang
+  245  gedit .zshrc
+  246  ls
+  247  exit
+  248  pacman -S tmux
+  249  tmux
+  250  ls
+  251  ls -la
+  252  gedit .zshrc
+  253  terminator
+  254  exit
+  255  terminator
+  256  exit
+  257  terminator
+  258  exit
+  259  terminator
+  260  exit
+  261  terminator
+  262  exit
+  263  gedit .zshrc
+  264  exit
+  265  gedit .zshrc
+  266  exit
+  267  gedit .zshrc
+  268  exit
+  269  su yang
+  270  exit
+  271  poweroff
+  272  wifi-meu
+  273  wifi-menu
+  274  startx
+  275  wifi-menu
+  276  exit
+  277  ls
+  278  ./Motrix-1.1.3-x86_64.AppImage
+  279  pacman -S termite
+  280  firefox & 
+  281  termite
+  282  ls
+  283  exit
+  284  git clone https://github.com/javaor/dot_files.git
+  285  git clone https://github.com/thestinger/termite.git
+  286  ls
+  287  cd termite
+  288  ls
+  289  cd ..
+  290  mv -rf termite .config
+  291  mv -f termite .config
+  292  ls
+  293  cd .config
+  294  cd termite
+  295  ls
+  296  nano config
+  297  termite
+  298  ls
+  299  ifconfig
+  300  exit
+  301  ls
+  302  cd ..
+  303  ls
+  304  pacman -S conky
+  305  conky
+  306  ranger
+  307  nano /usr/share/applications/ranger.desktop
+  308  ranger
+  309  pacman -S postman
+  310  su yang
+  311  cd music
+  312  ls
+  313  moc
+  314  mocp
+  315  nano .Xresources
+  316  gedit .Xresources
+  317  pacman -S fontconfig
+  318  su yang
+  319  ls
+  320  cd
+  321  ls
+  322  cd Downloads
+  323  ls
+  324  exit
+  325  cls
+  326  nano .zshrc
+  327  c
+  328  exit
+  329  c
+  330  firefox
+  331  git clone https://aur.archlinux.org/rxvt-unicode-patched.git
+  332  su yang
+  333  ls
+  334  rm -rf rxvt-unicode-patched
+  335  ls
+  336  git clone https://aur.archlinux.org/rxvt-unicode-fa-patched.git
+  337  su yang
+  338  ls
+  339  cd rxvt-unicode-fa-patched
+  340  ls
+  341  makepkg --help
+  342  makepkg -i
+  343  su yang
+  344  ls
+  345  cd ..
+  346  chmod 777 rxvt-unicode-fa-patched
+  347  ls
+  348  su yang
+  349  mv rxvt-unicode-fa-patched /home/yang
+  350  ls
+  351  su yang
+  352  exit
+  353  code --unity-launch
+  354  find / -name "code"
+  355  usr/bin/code --unity-launch
+  356  /usr/bin/code --unity-launch
+  357  su yang
+  358  pacman -S xcompmgr
+  359  pacman -S terminus
+  360  pacman -S acpi
+  361  nano .vimrc
+  362  vim
+  363  nano .vimrc
+  364  vim .vimrc
+  365  c
+  366  exit
+  367  nano .Xresources
+  368  c
+  369  clear
+  370  gedit .conkyrc
+  371  ls
+  372  ls -la
+  373  cd
+  374  ls -la
+  375  acpi
+  376  conkyrc
+  377  conky 
+  378  nano .conkyrc
+  379  ls
+  380  cd .config
+  381  ls
+  382  mkdir i3status
+  383  cd 
+  384  ls
+  385  cp .i3status.conf .config/i3status
+  386  rm -rf .i3status.conf
+  387  cd .config/i3status
+  388  ls
+  389  ls -la
+  390  mv .i3status.conf config
+  391  ls
+  392  nano config
+  393  gedit config
+  394  cd
+  395  nano .xinitrc
+  396  gedit .config/i3/config
+  397  thunar
+  398  ls
+  399  cp null-ghost.jpg .config/i3
+  400  pacman -S scrot
+  401  xcompmgr
+  402  gedit .bashrc
+  403  bash
+  404  exit
+  405  reboot
+  406  wifi-menu
+  407  startx
+  408  urxvtconfig
+  409  ls
+  410  rm -rf nerd-fonts-master.zip
+  411  termite &
+  412  exit
+  413  clear
+  414  c
+  415  ls
+  416  cd powerline
+  417  ls
+  418  ./setup.py
+  419  frefox &
+  420  cd ..
+  421  ls
+  422  nano .Xresources
+  423  gedit .Xresources
+  424  c
+  425  exit
+  426  xit
+  427  exit
+  428  gedit .config/i3/config
+  429  clear
+  430  nano .xinitrc
+  431  startx
+  432  gedit .Xresources
+  433  gedit .xinitrc
+  434  firefox &
+  435  exit
+  436  startx
+  437  termite&
+  438  nano .config/i3/config
+  439  firefox &
+  440  nano .config/i3/config
+  441  nano .xinitrc
+  442  pacman -S xmonad xmonad-contrib
+  443  exit
+  444  termite&
+  445  ls
+  446  cd Downloads
+  447  ls
+  448  cd 33
+  449  ls
+  450  rm -rf 33
+  451  ls
+  452  rm -rf 33
+  453  ls
+  454  ls -la
+  455  cd ..
+  456  ls
+  457  rm -rf Downloads
+  458  ls
+  459  find / -name "dwm"
+  460  cd /usr/share/j4-make-config-git/themes/dwm
+  461  mocp
+  462  c
+  463  ls
+  464  tar xf dwm-6.2.tar.gz
+  465  ls
+  466  cd dwm-6.2
+  467  ls
+  468  cd
+  469  ls .config
+  470  pacman -S rofi
+  471  ls
+  472  cd .config
+  473  ls
+  474  mkdir rofi
+  475  cd rofi
+  476  ls
+  477  gedit config
+  478  cd ..
+  479  ls
+  480  mkdir polybar
+  481  cd polybar
+  482  gedit config
+  483  gedit launch.sh
+  484  cd ..
+  485  ls
+  486  mkdir terminator
+  487  gedit config
+  488  cd
+  489  gedit i3config
+  490  ls
+  491  c
+  492  startx
+  493  ls
+  494  ifconfig
+  495  ls
+  496  cd .config
+  497  ls
+  498  nano config 
+  499  nano .xinitc
+  500  startx
+  501  nano .xinitrc
+  502  ls
+  503  ls -la
+  504  cd
+  505  ls
+  506  nano .xinitrc
+  507  exit
+  508  startx
+  509  exit
+  510  firefox &
+  511  nano i3/config
+  512  cd i3
+  513  gedit config
+  514  ls
+  515  cd i3
+  516  gedit config
+  517  mocp
+  518  vim i3/config
+  519  termite&
+  520  exit
+  521  cd i3
+  522  vim config
+  523  gedit config
+  524  cd
+  525  nano .xinitrc
+  526  cd
+  527  ls
+  528  su yang
+  529  ls
+  530  cd .config
+  531  ls
+  532  mkdir py3status
+  533  cd py3status
+  534  gedit config
+  535  pacman -S pamixer
+  536  pacman -S ydcv
+  537  c
+  538  cd
+  539  nano .zshrc
+  540  code
+  541  0x3
+  542  nano .zshrc
+  543  exit
+  544  nano .zshrc
+  545  cd
+  546  nano .zshrc
+  547  exirt
+  548  exit
+  549  0x3
+  550  ls
+  551  cd termite
+  552  ls
+  553  nano README.rst
+  554  cd ..
+  555  pacman -S pacman-contrib
+  556  pacman -S spacemacs
+  557  su yang
+  558  git clone https://github.com/sy120bnr/spacemacs ~/.emacs.d
+  559  terminology&
+  560  pacman -Rs terminology
+  561  pacman -R terminology
+  562  terminator & 
+  563  cd
+  564  git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
+  565  cd
+  566  ls
+  567  cd /boot
+  568  ls
+  569  cd /boot
+  570  ls
+  571  cd syslinux
+  572  ls
+  573  nano syslinux.cfg
+  574  pacman -S google-chrome
+  575  su yang
+  576  pacman -S google-chrome
+  577  exit
+  578  pacman -S hexedit
+  579  git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
+  580  hexedit /opt/google/chrome/chrome
+  581  chrome &
+  582  chrome
+  583  cd /opt/google
+  584  ls
+  585  cd chrome
+  586  ls
+  587  ./chrome
+  588  hexedit /opt/google/chrome/chrome
+  589  nano /opt/google/chrome/chrome
+  590  gedit /opt/google/chrome/chrome
+  591  exit
+  592  gedit /opt/google/chrome/chrome
+  593  vim /opt/google/chrome/chrome
+  594  gedit /opt/google/chrome/google-chrome
+  595  c
+  596  google-chrome
+  597  chrome
+  598  ls
+  599  ./google-chrome
+  600  ./chrome
+  601  chrome
+  602  cd /bin
+  603  ls
+  604  exit
+  605  pacman -S google-chrome
+  606  c
+  607  cd
+  608  nano .config/google-chrome
+  609  cd .config
+  610  cd google-chrome
+  611  ls
+  612  ls -la
+  613  cd ..
+  614  nano chrome-flags.conf
+  615  ls
+  616  touch chrome-flags.conf
+  617  ls
+  618  nano Trolltech.conf
+  619  rm -rf Trolltech.conf
+  620  ls
+  621  c
+  622  pacman -S vtop
+  623  pacman -S vis
+  624  pacman -S mpv
+  625  vtop
+  626  history
+    1  ls -la
+    2  exit
+    3  ls
+    4  nano .zshrc
+    5  git clone https://github.com/powerline/fonts.git
+    6  git clone https://github.com/powerline/powerline.git
+    7  ls
+    8  cd powerline
+    9  ls
+   10  ./setup.py
+   11  ls
+   12  cd ..
+   13  chmod -R 777 powerline
+   14  ls
+   15  cd powerline
+   16  ls
+   17  ./setup.py
+   18  pacman -S setuptools
+   19  pacman -Syu awesome-terminal-fonts
+   20  cd
+   21  git clone https://github.com/gabrielelana/awesome-terminal-fonts.git
+   22  pacman -S droid-fonts
+   23  pacman -S droid-font
+   24  exit
+   25  nano .zshrc
+   26  cd Downloads
+   27  ls
+   28  nano .zshrc
+   29  exit
+   30  ls
+   31  cd Downloads
+   32  ls
+   33  cp .i3status.conf ~/
+   34  cd
+   35  nano .i3status.conf
+   36  cd Downloads
+   37  cd .config
+   38  ls
+   39  ls -la
+   40  cd
+   41  nano .xinitrc
+   42  exit
+   43  ls
+   44  cd powerlevel9k
+   45  ls
+   46  cd ..
+   47  ls
+   48  bash
+   49  ls
+   50  nano .zshrc
+   51  ls
+   52  cd .oh-my-zsh
+   53  ls
+   54  cd themes
+   55  ls
+   56  cd ..
+   57  cd themes/ls
+   58  cd
+   59  ls
+   60  cd powerlevel9k
+   61  ls
+   62  cp powerlevel9k.zsh-theme ~/.oh-my-zsh/themes
+   63  nano README.md
+   64  exit
+   65  cd powerlevel9k
+   66  ls
+   67  sudo pacman -S zsh-theme-powerlevel9k
+   68  exit
+   69  echo 'source /usr/share/zsh-theme-powerlevel9k/powerlevel9k.zsh-theme' >> ~/.zshrc
+   70  ls
+   71  zsh
+   72  exit
+   73  ls
+   74  nano .zshrc
+   75  ls
+   76  cd Downloads
+   77  ls
+   78  nano .zshrc
+   79  remove powerlevel9k
+   80  sudo pacman -Rcn zsh-theme-powerlevel9k
+   81  exit
+   82  cd powerlevel9k
+   83  ls
+   84  bash
+   85  exit
+   86  ls
+   87  ./prompt_powerlevel9k_setup
+   88  cd
+   89  nano .zshrc
+   90  pacman -Ss font
+   91  pacman -S dobe-source-sans-pro-fonts
+   92  pacman -S adobe-source-sans-pro-fonts
+   93  pacman -S adobe-source-serif-pro-fonts
+   94  pacman -S noto-fonts-extra
+   95  cd .config
+   96  ;ls
+   97  ls
+   98  cd ..
+   99  cd .oh-my-zsh
+  100  ls
+  101  cd ..
+  102  ls
+  103  cd fonts
+  104  ls
+  105  cd Hack
+  106  ls
+  107  cd ..
+  108  cp -rf * /usr/share/fonts
+  109  cd /usr/share/fonts
+  110  ls
+  111  rm -rf install.ps1
+  112  rm -rf install.sh
+  113  rm -rf uninstall.sh
+  114  rm -rf README.rst
+  115  ls
+  116  cd
+  117  ls
+  118  rm -rf fonts
+  119  ls
+  120  fc-cache -fv
+  121  cd awesome-terminal-fonts
+  122  ls
+  123  ./install.sh
+  124  cd ..
+  125  ls
+  126  rm -rf awesome-terminal-fonts
+  127  ls
+  128  fc-cache -vf ~/.local/share/fonts
+  129  pacman -S powerline-font
+  130  pacman -S powerline-fonts
+  131  su yang
+  132  pacman -S rxvt-unicode
+  133  pacman -S rxvt-dev
+  134  su yang
+  135  pacman -S rxvt-unicode-256xresources
+  136  su yang
+  137  exit
+  138  ls
+  139  mkdir music
+  140  ls
+  141  exit
+  142  moc
+  143  reboot
+  144  wifi-menu
+  145  startx
+  146  ls
+  147  cp -rf powerlevel9k .oh-my-zsh/themes
+  148  moc
+  149  nano .zshrc
+  150  bash
+  151  alsamixer
+  152  terminator &
+  153  exit
+  154  ls
+  155  rm -rf powerlevel9k
+  156  ls
+  157  cd powerline
+  158  ls
+  159  ./setup.py
+  160  cd Downloads
+  161  ls
+  162  tar xf arch1_tar.gz
+  163  ls
+  164  cd i3
+  165  ls
+  166  ls -la
+  167  cd ..
+  168  ls -la
+  169  cd i3
+  170  ls
+  171  cd ..
+  172  tar xf arch1_tar.gz
+  173  ls
+  174  ls -la
+  175  rm -rf *
+  176  ls
+  177  cd ..
+  178  ls
+  179  ls -la
+  180  cd Downloads
+  181  LS
+  182  ls
+  183  ls -la
+  184  nano .xprofile
+  185  nano .xinitrc
+  186  rm -rf .*
+  187  ls
+  188  ll
+  189  ls -la
+  190  cd ..
+  191  ls
+  192  cd .config/i3
+  193  ls
+  194  nano config
+  195  pacman -S thunar
+  196  ranger
+  197  st
+  198  ls
+  199  ifconfig
+  200  ls
+  201  exit
+  202  clear
+  203  exit
+  204  ls
+  205  nano config
+  206  exit
+  207  ls
+  208  nano .config/i3/config
+  209  nano .Xresources
+  210  exit
+  211  reboot
+  212  wifi-menu
+  213  startx
+  214  ls
+  215  clear
+  216  ifconfig
+  217  nano .Xresources
+  218  pacman -Ss unicode
+  219  pacman -S unicode-emoji
+  220  pacman -S ttf-symbola 
+  221  pacman -Scc
+  222  poweroff
+  223  wifi-menu
+  224  startx
+  225  firefox
+  226  ls -la
+  227  pacman -S i3bar
+  228  pacman -S conky
+  229  pamcman -S ttf-font-awesome
+  230  pacman -S ttf-font-awesome
+  231  pacman -S ttf-font-icons
+  232  su yang
+  233  nano .config/i3/config
+  234  gedit .config/i3/config
+  235  ls
+  236  chmod a+x Motrix-1.1.3-x86_64.AppImage
+  237  ls
+  238  ./Motrix-1.1.3-x86_64.AppImage
+  239  exit
+  240  gedit .config/i3/config
+  241  gedit .config/i3/config &
+  242  pacman -S xorg-xprop
+  243  pacman -S i3-style
+  244  su yang
+  245  gedit .zshrc
+  246  ls
+  247  exit
+  248  pacman -S tmux
+  249  tmux
+  250  ls
+  251  ls -la
+  252  gedit .zshrc
+  253  terminator
+  254  exit
+  255  terminator
+  256  exit
+  257  terminator
+  258  exit
+  259  terminator
+  260  exit
+  261  terminator
+  262  exit
+  263  gedit .zshrc
+  264  exit
+  265  gedit .zshrc
+  266  exit
+  267  gedit .zshrc
+  268  exit
+  269  su yang
+  270  exit
+  271  poweroff
+  272  wifi-meu
+  273  wifi-menu
+  274  startx
+  275  wifi-menu
+  276  exit
+  277  ls
+  278  ./Motrix-1.1.3-x86_64.AppImage
+  279  pacman -S termite
+  280  firefox & 
+  281  termite
+  282  ls
+  283  exit
+  284  git clone https://github.com/javaor/dot_files.git
+  285  git clone https://github.com/thestinger/termite.git
+  286  ls
+  287  cd termite
+  288  ls
+  289  cd ..
+  290  mv -rf termite .config
+  291  mv -f termite .config
+  292  ls
+  293  cd .config
+  294  cd termite
+  295  ls
+  296  nano config
+  297  termite
+  298  ls
+  299  ifconfig
+  300  exit
+  301  ls
+  302  cd ..
+  303  ls
+  304  pacman -S conky
+  305  conky
+  306  ranger
+  307  nano /usr/share/applications/ranger.desktop
+  308  ranger
+  309  pacman -S postman
+  310  su yang
+  311  cd music
+  312  ls
+  313  moc
+  314  mocp
+  315  nano .Xresources
+  316  gedit .Xresources
+  317  pacman -S fontconfig
+  318  su yang
+  319  ls
+  320  cd
+  321  ls
+  322  cd Downloads
+  323  ls
+  324  exit
+  325  cls
+  326  nano .zshrc
+  327  c
+  328  exit
+  329  c
+  330  firefox
+  331  git clone https://aur.archlinux.org/rxvt-unicode-patched.git
+  332  su yang
+  333  ls
+  334  rm -rf rxvt-unicode-patched
+  335  ls
+  336  git clone https://aur.archlinux.org/rxvt-unicode-fa-patched.git
+  337  su yang
+  338  ls
+  339  cd rxvt-unicode-fa-patched
+  340  ls
+  341  makepkg --help
+  342  makepkg -i
+  343  su yang
+  344  ls
+  345  cd ..
+  346  chmod 777 rxvt-unicode-fa-patched
+  347  ls
+  348  su yang
+  349  mv rxvt-unicode-fa-patched /home/yang
+  350  ls
+  351  su yang
+  352  exit
+  353  code --unity-launch
+  354  find / -name "code"
+  355  usr/bin/code --unity-launch
+  356  /usr/bin/code --unity-launch
+  357  su yang
+  358  pacman -S xcompmgr
+  359  pacman -S terminus
+  360  pacman -S acpi
+  361  nano .vimrc
+  362  vim
+  363  nano .vimrc
+  364  vim .vimrc
+  365  c
+  366  exit
+  367  nano .Xresources
+  368  c
+  369  clear
+  370  gedit .conkyrc
+  371  ls
+  372  ls -la
+  373  cd
+  374  ls -la
+  375  acpi
+  376  conkyrc
+  377  conky 
+  378  nano .conkyrc
+  379  ls
+  380  cd .config
+  381  ls
+  382  mkdir i3status
+  383  cd 
+  384  ls
+  385  cp .i3status.conf .config/i3status
+  386  rm -rf .i3status.conf
+  387  cd .config/i3status
+  388  ls
+  389  ls -la
+  390  mv .i3status.conf config
+  391  ls
+  392  nano config
+  393  gedit config
+  394  cd
+  395  nano .xinitrc
+  396  gedit .config/i3/config
+  397  thunar
+  398  ls
+  399  cp null-ghost.jpg .config/i3
+  400  pacman -S scrot
+  401  xcompmgr
+  402  gedit .bashrc
+  403  bash
+  404  exit
+  405  reboot
+  406  wifi-menu
+  407  startx
+  408  urxvtconfig
+  409  ls
+  410  rm -rf nerd-fonts-master.zip
+  411  termite &
+  412  exit
+  413  clear
+  414  c
+  415  ls
+  416  cd powerline
+  417  ls
+  418  ./setup.py
+  419  frefox &
+  420  cd ..
+  421  ls
+  422  nano .Xresources
+  423  gedit .Xresources
+  424  c
+  425  exit
+  426  xit
+  427  exit
+  428  gedit .config/i3/config
+  429  clear
+  430  nano .xinitrc
+  431  startx
+  432  gedit .Xresources
+  433  gedit .xinitrc
+  434  firefox &
+  435  exit
+  436  startx
+  437  termite&
+  438  nano .config/i3/config
+  439  firefox &
+  440  nano .config/i3/config
+  441  nano .xinitrc
+  442  pacman -S xmonad xmonad-contrib
+  443  exit
+  444  termite&
+  445  ls
+  446  cd Downloads
+  447  ls
+  448  cd 33
+  449  ls
+  450  rm -rf 33
+  451  ls
+  452  rm -rf 33
+  453  ls
+  454  ls -la
+  455  cd ..
+  456  ls
+  457  rm -rf Downloads
+  458  ls
+  459  find / -name "dwm"
+  460  cd /usr/share/j4-make-config-git/themes/dwm
+  461  mocp
+  462  c
+  463  ls
+  464  tar xf dwm-6.2.tar.gz
+  465  ls
+  466  cd dwm-6.2
+  467  ls
+  468  cd
+  469  ls .config
+  470  pacman -S rofi
+  471  ls
+  472  cd .config
+  473  ls
+  474  mkdir rofi
+  475  cd rofi
+  476  ls
+  477  gedit config
+  478  cd ..
+  479  ls
+  480  mkdir polybar
+  481  cd polybar
+  482  gedit config
+  483  gedit launch.sh
+  484  cd ..
+  485  ls
+  486  mkdir terminator
+  487  gedit config
+  488  cd
+  489  gedit i3config
+  490  ls
+  491  c
+  492  startx
+  493  ls
+  494  ifconfig
+  495  ls
+  496  cd .config
+  497  ls
+  498  nano config 
+  499  nano .xinitc
+  500  startx
+  501  nano .xinitrc
+  502  ls
+  503  ls -la
+  504  cd
+  505  ls
+  506  nano .xinitrc
+  507  exit
+  508  startx
+  509  exit
+  510  firefox &
+  511  nano i3/config
+  512  cd i3
+  513  gedit config
+  514  ls
+  515  cd i3
+  516  gedit config
+  517  mocp
+  518  vim i3/config
+  519  termite&
+  520  exit
+  521  cd i3
+  522  vim config
+  523  gedit config
+  524  cd
+  525  nano .xinitrc
+  526  cd
+  527  ls
+  528  su yang
+  529  ls
+  530  cd .config
+  531  ls
+  532  mkdir py3status
+  533  cd py3status
+  534  gedit config
+  535  pacman -S pamixer
+  536  pacman -S ydcv
+  537  c
+  538  cd
+  539  nano .zshrc
+  540  code
+  541  0x3
+  542  nano .zshrc
+  543  exit
+  544  nano .zshrc
+  545  cd
+  546  nano .zshrc
+  547  exirt
+  548  exit
+  549  0x3
+  550  ls
+  551  cd termite
+  552  ls
+  553  nano README.rst
+  554  cd ..
+  555  pacman -S pacman-contrib
+  556  pacman -S spacemacs
+  557  su yang
+  558  git clone https://github.com/sy120bnr/spacemacs ~/.emacs.d
+  559  terminology&
+  560  pacman -Rs terminology
+  561  pacman -R terminology
+  562  terminator & 
+  563  cd
+  564  git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
+  565  cd
+  566  ls
+  567  cd /boot
+  568  ls
+  569  cd /boot
+  570  ls
+  571  cd syslinux
+  572  ls
+  573  nano syslinux.cfg
+  574  pacman -S google-chrome
+  575  su yang
+  576  pacman -S google-chrome
+  577  exit
+  578  pacman -S hexedit
+  579  git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
+  580  hexedit /opt/google/chrome/chrome
+  581  chrome &
+  582  chrome
+  583  cd /opt/google
+  584  ls
+  585  cd chrome
+  586  ls
+  587  ./chrome
+  588  hexedit /opt/google/chrome/chrome
+  589  nano /opt/google/chrome/chrome
+  590  gedit /opt/google/chrome/chrome
+  591  exit
+  592  gedit /opt/google/chrome/chrome
+  593  vim /opt/google/chrome/chrome
+  594  gedit /opt/google/chrome/google-chrome
+  595  c
+  596  google-chrome
+  597  chrome
+  598  ls
+  599  ./google-chrome
+  600  ./chrome
+  601  chrome
+  602  cd /bin
+  603  ls
+  604  exit
+  605  pacman -S google-chrome
+  606* c
+  607  cd
+  608  nano .config/google-chrome
+  609  cd .config
+  610  cd google-chrome
+  611  ls
+  612  ls -la
+  613  cd ..
+  614  nano chrome-flags.conf
+  615  ls
+  616  touch chrome-flags.conf
+  617  ls
+  618  nano Trolltech.conf
+  619  rm -rf Trolltech.conf
+  620  ls
+  621  c
+  622* pacman -S vtop
+  623* pacman -S vis
+  624* pacman -S mpv
+  625* vtop
+  626* history
+  627* history >> p.txt
+  628* ls
+  629* pacman -S ttf-hack
+  630* pacman -S dunst
+  631* pacman -S psbwm
+  632* pacman -S bspwm
+  633* exit
+  634* terminator
+  635* history
+  636* historygit clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
+  637* cd
+  638* git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
+  639* pacman -S sxhkd
+  640* cd
+  641* git clone https://github.com/JoshuaRLi/og.git
+  642* pacman -S highlight
+  643  mpv
+  644  ls
+  645  mpv ~/music/07ea7bcfce10fd681251d6ba79fa5c0d.mp3
